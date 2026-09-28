@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 // Address book developed for SYSC 3110.
+// This change was made through GitHub.
 public class AddressBook {
     private ArrayList<BuddyInfo> myBuddies;
 
